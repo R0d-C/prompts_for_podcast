@@ -7,7 +7,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Foi utilizada uma sequência de prompts para gerar cada etapa do processo criativo.
 
-[📕Clique aqui para ouvir o podcast](https://github.com/R0d-C/prompts_for_podcast/blob/main/assets/Podcast_PBi_f.mp3)
+[📕Clique aqui para fazer o download do podcast](https://github.com/R0d-C/prompts_for_podcast/blob/main/assets/Podcast_PBi_f.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
