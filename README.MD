@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+    src="./assets/capa.png"
+    width="300"
+/>
+</p>
+
+
 # Projeto Podcast Gerado por I.A.s
 
 
