@@ -3,7 +3,7 @@
 
 >ℹ️ **NOTA:** Este é o repositório desenvolvido durante curso  na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais detalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais detalhados.
 
 Foi utilizada uma sequência de prompts para gerar cada etapa do processo criativo.
 
