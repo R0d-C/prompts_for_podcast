@@ -20,7 +20,7 @@ Foi utilizada uma sequência de prompts para gerar cada etapa do processo criati
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Microsoft Copilot Para gerar capa
+- Microsoft Copilot para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 🛠️ Instruções de execução
