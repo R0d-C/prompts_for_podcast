@@ -25,7 +25,7 @@ Foi utilizada uma sequência de prompts para gerar cada etapa do processo criati
 
 - 🤖 1. Use prompts de roteiro no `chagpt`
 - 🤖 2. Use prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use prompts de artes no Microsoft Copilot
+- 🤖 3. Use prompts de artes no 'Microsoft Copilot'
 
 ## 👨‍💻 Expert
 
