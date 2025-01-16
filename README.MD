@@ -7,6 +7,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Foi utilizada uma sequência de prompts para gerar cada etapa do processo criativo.
 
+[📕Clique aqui para ler o PDF](https://github.com/R0d-C/ebook_DIO_DAX/blob/main/Assets/Ebook_Rodrigo_DIO_f.pdf)
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
