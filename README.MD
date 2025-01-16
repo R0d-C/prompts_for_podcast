@@ -6,7 +6,15 @@
 </p>
 
 
-# **Projeto EBOOK Gerado por I.A.s**
+# Projeto Podcast Gerado por I.A.s
+
+
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+
+Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
 
 
 >ℹ️ **NOTA:** Este é o repositório desenvolvido durante curso  na plataforma da [DIO](https://dio.me)
